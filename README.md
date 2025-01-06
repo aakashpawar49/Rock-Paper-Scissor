@@ -16,7 +16,6 @@ Random computer move selection
 Real-time result display
 
 **Technologies Used**
+
 HTML
-
 CSS
-
